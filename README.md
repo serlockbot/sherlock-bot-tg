@@ -1,7 +1,7 @@
 <div align="center">
   <h1>🔍 Официальный Шерлок Бот ТГ</h1>
   <p><b>Лучший инструмент для расследований и OSINT в Telegram</b></p>
-  <a href="https://serlockbot.ru/"><img src="https://img.shields.io/badge/Запуск-Бота-success?style=for-the-badge&logo=telegram" alt="Launch"></a>
+  <a href="https://serlock-bot.org/"><img src="https://img.shields.io/badge/Запуск-Бота-success?style=for-the-badge&logo=telegram" alt="Launch"></a>
 </div>
 
 ## 📌 О проекте Шерлок Бот ТГ
@@ -38,7 +38,7 @@
 
 Готовы найти то, что было скрыто? 
 
-1. **Перейдите на официальный портал**: [Начать поиск в Шерлок Бот](https://serlockbot.ru/)
+1. **Перейдите на официальный портал**: [Начать поиск в Шерлок Бот](https://serlock-bot.org/)
 2. **Запустите бота в Telegram**.
 3. **Введите данные** и получите мгновенный результат благодаря технологии **шерлок поиск информации**.
 
